@@ -1,1 +1,1 @@
-# Exer_portas_logicas
+# Exercicíos_Circuitos
